@@ -1,3 +1,1 @@
-# hello-world
-I'm just starting, you know?
-Oh wow, you get an HTML editor!
+Display dialog "Hello, world!" -- a modal window with "OK" and "Cancel" buttons
