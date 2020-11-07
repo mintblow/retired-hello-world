@@ -1,1 +1,10 @@
-Display dialog "Hello, world!" -- a modal window with "OK" and "Cancel" buttons
+<!DOCTYPE html>
+ <html>
+  <title>Hello, world!</title>
+  </head>
+  <body>
+    <div>
+        <p>Hello, world!</p>
+    </div>
+   </body>
+ </html>  
